@@ -14,5 +14,6 @@ public class App
         System.out.println( "arbaz" );
         System.out.println( "fool");
         System.out.println("faizan");
+	System.out.println("new one");
     }
 }
